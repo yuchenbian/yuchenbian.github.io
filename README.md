@@ -2,6 +2,14 @@
 
 Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/Index). He obtained Ph.D. in the College of Information Sciences and Technology at The Pennsylvania State University in Dec. 2019. He currectly focuses on NLP and graph projects. He was advised by [Dr. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). He did internships in Baidu Big Data Lab and NEC Labs, America. Two of his papers were nominated for the Best Paper of ICDM 2017 and 2018, respectively.
 
+### News
+
+- Happy to make contributions to the project [CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization](http://covseq.baidu.com/) [[NEWS]](https://mp.weixin.qq.com/s/umMFPFLI7ADvPR10wyzPCQ)
+- One paper is accepted by KDD 2020.
+- I joined Baidu Research at the end of 2019
+- I have passed my Ph.D. dissertation defense in Sep. 2019. Dissertation title: “Local Community Detection on Complex Networks”
+- One paper is accepted by WSDM 2020.
+
 ### Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
