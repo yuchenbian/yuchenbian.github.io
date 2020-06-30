@@ -1,10 +1,8 @@
 ## Yuchen Bian Homepage
 
-You can use the [editor on GitHub](https://github.com/yuchenbian/yuchenbian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/Index). He obtained Ph.D. in the College of Information Sciences and Technology at The Pennsylvania State University in Dec. 2019. He currectly focuses on NLP and graph projects. He was advised by [Dr. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). He did internships in Baidu Big Data Lab and NEC Labs, America. Two of his papers were nominated for the Best Paper of ICDM 2017 and 2018, respectively.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
