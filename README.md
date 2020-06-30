@@ -4,7 +4,7 @@ Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/I
 
 ### News
 
-- Happy to make contributions to the project [CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization](http://covseq.baidu.com/) [[NEWS]](https://mp.weixin.qq.com/s/umMFPFLI7ADvPR10wyzPCQ)
+- Happy to make contributions to the project [CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization](http://covseq.baidu.com/) [[Paper]](https://www.biorxiv.org/content/10.1101/2020.05.01.071050v2) [[NEWS]](https://mp.weixin.qq.com/s/umMFPFLI7ADvPR10wyzPCQ)
 - One paper is accepted by KDD 2020.
 - I joined Baidu Research at the end of 2019
 - I have passed my Ph.D. dissertation defense in Sep. 2019. Dissertation title: “Local Community Detection on Complex Networks”
