@@ -13,7 +13,8 @@ Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/I
 
 ### Selected Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=gU0icBEAAAAJ&hl=en&authuser=2)   [DBLP](https://dblp.org/pid/187/4068.html) 
+[[Google Scholar](https://scholar.google.com/citations?user=gU0icBEAAAAJ&hl=en&authuser=2)]   [[DBLP](https://dblp.org/pid/187/4068.html)]
+
 Selected Publications (*: supervised junior colleague or supervised intern):
 
 
