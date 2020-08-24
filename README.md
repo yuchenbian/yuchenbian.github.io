@@ -19,7 +19,7 @@ Selected Publications (*: supervised junior colleague or supervised intern):
 
 - **Yuchen Bian**, Jun Huan, Dejing Dou, Xiang Zhang, "Rethinking Local Community Detection: Query Nodes Replacement", Proceedings of the IEEE International Conference on Data Mining (ICDM), 2020. (acceptance rate: 183/930=19.7%, to appear)
 - Jiahong Yuan, **Yuchen Bian**, Xingyu Cai, Jiaji Huang, Zheng Ye and Kenneth Church, "Disfluencies and Fine-Tuning Pre-trained Language Models for Detection of Alzheimer’s Disease", Interspeech 2020 (to appear)
-- Boxiang Liu, Kaibo Liu, He Zhang, Liang Zhang, **Yuchen Bian**, Liang Huang, "CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization", [bioRxiv, 2020](https://www.biorxiv.org/content/10.1101/2020.05.01.071050v2)[Code](https://github.com/boxiangliu/covseq)
+- Boxiang Liu, Kaibo Liu, He Zhang, Liang Zhang, **Yuchen Bian**, Liang Huang, "CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization", [bioRxiv, 2020](https://www.biorxiv.org/content/10.1101/2020.05.01.071050v2)[[Code](https://github.com/boxiangliu/covseq)]
 - Dongsheng Luo*, **Yuchen Bian**, Yaowei Yan, Xiao Liu, Jun Huan, and Xiang Zhang, “Local Community Detection in Multiple Networks”, Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2020. (acceptance rate: 216/1279=16.9%)
 - Dongsheng Luo, Jingchao Ni, Suhang Wang, **Yuchen Bian**, Xiong Yu, and Xiang Zhang. “Deep Multi-Graph Clustering via Attentive Cross-Graph Association”, Proceedings of the ACM International WSDM Conference (WSDM), 2019. (acceptance rate: 91/615=15%)
 - **Yuchen Bian**, Dongsheng Luo, Yaowei Yan, Wei Cheng, Wei Wang, and Xiang Zhang. “Memory-Based Random Walk for Multi-Query Local Community Detection.” Knowledge and Information Systems (KAIS), 2019 ([DOI](https://link.springer.com/article/10.1007/s10115-019-01398-3?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20190910)), **(one of the best paper candidates of ICDM 2018)**
@@ -34,40 +34,15 @@ Selected Publications (*: supervised junior colleague or supervised intern):
 
 ### Honors and Awards
 
-ICDM Best Paper Candidate                                                                  11/2018
-First place winner (Eng.) in the 33rd annual PSU Graduate Exhibition (News)                03/2018
-ICDM Best Paper Candidate                                                                  11/2017
-IST Travel Award                                                                           10/2017, 11/2018
-ICDM Student Travel Award                                                                  10/2017, 11/2018
-Tianjin Excellent Master Thesis Dissertation Award                                         12/2015
-National Scholarship (Graduate Students)                                                   12/2012
-Top10 excellent students in science and technology at Tianjin University                   11/2011
-1st prize of 5th  “National Mitsubishi Electric Automation Cup” (3/65)                     08/2011
-Excellent undergraduate student at Tianjin University (6/175)                              07/2010
-1st prize of 3th “National Mitsubishi Electric Automation Cup” (5/53)                      08/2009
-```
-# Header 1
-## Header 2
-### Header 3
+- ICDM Best Paper Candidate                                                                  11/2018
+- First place winner (Eng.) in the 33rd annual PSU Graduate Exhibition ([News](http://gradschool.psu.edu/exhibition/awards/awards-archive/?year=2018))                03/2018
+- ICDM Best Paper Candidate                                                                  11/2017
+- IST Travel Award                                                                           10/2017, 11/2018
+- ICDM Student Travel Award                                                                  10/2017, 11/2018
+- Tianjin Excellent Master Thesis Dissertation Award                                         12/2015
+- National Scholarship (Graduate Students)                                                   12/2012
+- Top10 excellent students in science and technology at Tianjin University                   11/2011
+- 1st prize of 5th  “National Mitsubishi Electric Automation Cup” (3/65)                     08/2011
+- Excellent undergraduate student at Tianjin University (6/175)                              07/2010
+- 1st prize of 3th “National Mitsubishi Electric Automation Cup” (5/53)                      08/2009
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuchenbian/yuchenbian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-```
