@@ -3,12 +3,12 @@
 Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/Index). He obtained Ph.D. in the College of Information Sciences and Technology at The Pennsylvania State University in Dec. 2019. He currectly focuses on NLP and graph projects. He was advised by [Dr. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). He did internships in Baidu Big Data Lab and NEC Labs, America. Two of his papers were nominated for the Best Paper of ICDM 2017 and 2018, respectively.
 
 ### News
+- One paper is accepted by NAACL 2021.
+- One paper is accepted by ICLR 2021.
 - One paper is accepted by ICDM 2020.
 - One paper is accepted by INTERSPEECH 2020.
 - Happy to make contributions to the project [CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization](http://covseq.baidu.com/) [[Paper]](https://www.biorxiv.org/content/10.1101/2020.05.01.071050v2) [[NEWS]](https://mp.weixin.qq.com/s/umMFPFLI7ADvPR10wyzPCQ)
 - One paper is accepted by KDD 2020.
-- I joined Baidu Research at the end of 2019
-- I have passed my Ph.D. dissertation defense in Sep. 2019. Dissertation title: “Local Community Detection on Complex Networks”
 - One paper is accepted by WSDM 2020.
 
 ### Selected Publications
@@ -17,7 +17,8 @@ Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/I
 
 Selected Publications (*: supervised junior colleague or supervised intern):
 
-
+- **Yuchen Bian**, Jiaji Huang, Xingyu Cai, Jiahong Yuan, Kenneth Church. "On Attention Redundancy: A Comprehensive Study", Proceedings of NAACL-HLT, 2021. (to appear)
+- Xingyu Cai, Jiaji Huang, **Yuchen Bian**, Kennetch Church, "Isotropy in the Contextual Embedding Space: Clusters and Manifolds", Proceedings of International Conference on Learning Representations (ICLR), 2021. [[pdf](https://openreview.net/pdf?id=xYGNO86OWDH)]
 - **Yuchen Bian**, Jun Huan, Dejing Dou, Xiang Zhang, "Rethinking Local Community Detection: Query Nodes Replacement", Proceedings of the IEEE International Conference on Data Mining (ICDM), 2020. (acceptance rate: 183/930=19.7%, to appear)
 - Jiahong Yuan, **Yuchen Bian**, Xingyu Cai, Jiaji Huang, Zheng Ye and Kenneth Church, "Disfluencies and Fine-Tuning Pre-trained Language Models for Detection of Alzheimer’s Disease", Interspeech 2020 (to appear)
 - Boxiang Liu, Kaibo Liu, He Zhang, Liang Zhang, **Yuchen Bian**, Liang Huang, "CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization", [bioRxiv, 2020](https://www.biorxiv.org/content/10.1101/2020.05.01.071050v2) [[Code](https://github.com/boxiangliu/covseq)]
