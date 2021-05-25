@@ -17,7 +17,7 @@ Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/I
 
 Selected Publications (*: supervised junior colleague or supervised intern):
 
-- **Yuchen Bian**, Jiaji Huang, Xingyu Cai, Jiahong Yuan, Kenneth Church. "On Attention Redundancy: A Comprehensive Study", Proceedings of NAACL-HLT, 2021. (to appear)
+- **Yuchen Bian**, Jiaji Huang, Xingyu Cai, Jiahong Yuan, Kenneth Church. "On Attention Redundancy: A Comprehensive Study", Proceedings of NAACL-HLT, 2021. [PDF](https://www.aclweb.org/anthology/2021.naacl-main.72.pdf)
 - Xingyu Cai, Jiaji Huang, **Yuchen Bian**, Kennetch Church, "Isotropy in the Contextual Embedding Space: Clusters and Manifolds", Proceedings of International Conference on Learning Representations (ICLR), 2021. [[pdf](https://openreview.net/pdf?id=xYGNO86OWDH)]
 - **Yuchen Bian**, Jun Huan, Dejing Dou, Xiang Zhang, "Rethinking Local Community Detection: Query Nodes Replacement", Proceedings of the IEEE International Conference on Data Mining (ICDM), 2020. (acceptance rate: 183/930=19.7%, to appear)
 - Jiahong Yuan, **Yuchen Bian**, Xingyu Cai, Jiaji Huang, Zheng Ye and Kenneth Church, "Disfluencies and Fine-Tuning Pre-trained Language Models for Detection of Alzheimer’s Disease", Interspeech 2020 (to appear)
