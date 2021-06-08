@@ -17,9 +17,9 @@ Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/I
 
 Selected Publications (*: supervised junior colleague or supervised intern):
 
-- **Yuchen Bian**, Jiaji Huang, Xingyu Cai, Jiahong Yuan, Kenneth Church. "On Attention Redundancy: A Comprehensive Study", Proceedings of NAACL-HLT, 2021. [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.72.pdf)
+- **Yuchen Bian**, Jiaji Huang, Xingyu Cai, Jiahong Yuan, Kenneth Church. "On Attention Redundancy: A Comprehensive Study", Proceedings of NAACL-HLT, 2021. [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.72.pdf)[[video]](https://screencast-o-matic.com/watch/crhlhQVfYD1)
 - Xingyu Cai, Jiaji Huang, **Yuchen Bian**, Kennetch Church, "Isotropy in the Contextual Embedding Space: Clusters and Manifolds", Proceedings of International Conference on Learning Representations (ICLR), 2021. [[pdf](https://openreview.net/pdf?id=xYGNO86OWDH)]
-- **Yuchen Bian**, Jun Huan, Dejing Dou, Xiang Zhang, "Rethinking Local Community Detection: Query Nodes Replacement", Proceedings of the IEEE International Conference on Data Mining (ICDM), 2020. (acceptance rate: 183/930=19.7%, to appear)
+- **Yuchen Bian**, Jun Huan, Dejing Dou, Xiang Zhang, "Rethinking Local Community Detection: Query Nodes Replacement", Proceedings of the IEEE International Conference on Data Mining (ICDM), 2020. (acceptance rate: 183/930=19.7%)[[video]](https://screencast-o-matic.com/watch/cY6Zivs1k4)
 - Jiahong Yuan, **Yuchen Bian**, Xingyu Cai, Jiaji Huang, Zheng Ye and Kenneth Church, "Disfluencies and Fine-Tuning Pre-trained Language Models for Detection of Alzheimer’s Disease", Interspeech 2020 (to appear)
 - Boxiang Liu, Kaibo Liu, He Zhang, Liang Zhang, **Yuchen Bian**, Liang Huang, "CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization", [bioRxiv, 2020](https://www.biorxiv.org/content/10.1101/2020.05.01.071050v2) [[Code](https://github.com/boxiangliu/covseq)]
 - Dongsheng Luo*, **Yuchen Bian**, Yaowei Yan, Xiao Liu, Jun Huan, and Xiang Zhang, “Local Community Detection in Multiple Networks”, Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2020. (acceptance rate: 216/1279=16.9%)
