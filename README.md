@@ -3,6 +3,7 @@
 Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/Index). He obtained Ph.D. in the College of Information Sciences and Technology at The Pennsylvania State University in Dec. 2019. He currectly focuses on NLP and graph projects. He was advised by [Dr. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). He did internships in Baidu Big Data Lab and NEC Labs, America. Two of his papers were nominated for the Best Paper of ICDM 2017 and 2018, respectively.
 
 ### News
+- One paper is accepted by MM 2021
 - One paper is accepted by NAACL 2021.
 - One paper is accepted by ICLR 2021.
 - One paper is accepted by ICDM 2020.
