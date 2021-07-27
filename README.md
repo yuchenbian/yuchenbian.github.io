@@ -7,6 +7,7 @@ Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/I
 - One paper is accepted by NAACL 2021.
 - One paper is accepted by ICLR 2021.
 - One paper is accepted by ICDM 2020.
+- 1-st Place Winner of The ADReSS Alzheimer's Dementia Recognition Challenge hosted in INTERSPEECH 2020
 - One paper is accepted by INTERSPEECH 2020.
 - Happy to make contributions to the project [CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization](http://covseq.baidu.com/) [[Paper]](https://www.biorxiv.org/content/10.1101/2020.05.01.071050v2) [[NEWS]](https://mp.weixin.qq.com/s/umMFPFLI7ADvPR10wyzPCQ)
 - One paper is accepted by KDD 2020.
@@ -38,6 +39,8 @@ Selected Publications (*: supervised junior colleague or supervised intern):
 
 ### Honors and Awards
 
+
+- 1-st Place Winner of The ADReSS Alzheimer's Dementia Recognition Challenge hosted in INTERSPEECH 2020 10/2020
 - ICDM Best Paper Candidate                                                                  11/2018
 - First place winner (Eng.) in the 33rd annual PSU Graduate Exhibition ([News](http://gradschool.psu.edu/exhibition/awards/awards-archive/?year=2018))                03/2018
 - ICDM Best Paper Candidate                                                                  11/2017
