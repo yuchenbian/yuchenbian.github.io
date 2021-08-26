@@ -3,6 +3,7 @@
 Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/Index). He obtained Ph.D. in the College of Information Sciences and Technology at The Pennsylvania State University in Dec. 2019. He currectly focuses on NLP and graph projects. He was advised by [Dr. Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). He did internships in Baidu Big Data Lab and NEC Labs, America. Two of his papers were nominated for the Best Paper of ICDM 2017 and 2018, respectively.
 
 ### News
+- One paper is accepted by EMNLP 2021
 - One paper is accepted by MM 2021
 - One paper is accepted by NAACL 2021.
 - One paper is accepted by ICLR 2021.
@@ -19,6 +20,7 @@ Yuchen Bian is a researcher in [Baidu Research, USA](http://research.baidu.com/I
 
 Selected Publications (*: supervised junior colleague or supervised intern):
 
+- Kenneth Church, **Yuchen Bian**, “Data Collection vs. Knowledge Graph Completion: What is Needed to Improve Coverage?”, Proceedings of EMNLP, 2021. (to appear)
 - Baopu Li, Yanwen Fan, Zhihong Pan, **Yuchen Bian**, Gang Zhang, “Automatic Channel Pruning with Hyper-parameter Search and Dynamic Masking”, Proceedings of MM, 2021. (to appear)
 - **Yuchen Bian**, Jiaji Huang, Xingyu Cai, Jiahong Yuan, Kenneth Church. "On Attention Redundancy: A Comprehensive Study", Proceedings of Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL**), 2021. [[pdf]](https://www.aclweb.org/anthology/2021.naacl-main.72.pdf)[[video]](https://screencast-o-matic.com/watch/crhlhQVfYD1)
 - Xingyu Cai, Jiaji Huang, **Yuchen Bian**, Kennetch Church, "Isotropy in the Contextual Embedding Space: Clusters and Manifolds", Proceedings of International Conference on Learning Representations (ICLR), 2021. [[pdf](https://openreview.net/pdf?id=xYGNO86OWDH)]
